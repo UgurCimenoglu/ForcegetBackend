@@ -1,0 +1,6 @@
+@Forceget.WebAPI_HostAddress = http://localhost:5214
+
+GET {{Forceget.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
